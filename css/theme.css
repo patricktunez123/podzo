@@ -1,0 +1,16 @@
+.our-restos-section,
+.how-it-works-section,
+.get-app-section,
+.above-footer,
+.resto_bg,
+.restaurent-info-container,
+.near-by{
+  padding: 100px;
+}
+
+.below-footer{
+  padding: 10px;
+}
+.btn-width{
+  width: 150px;
+}
