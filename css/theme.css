@@ -4,13 +4,17 @@
 .above-footer,
 .resto_bg,
 .restaurent-info-container,
-.near-by{
+.near-by,
+.res{
   padding: 100px;
 }
 
 .below-footer{
-  padding: 10px;
+  padding: 30px;
 }
 .btn-width{
   width: 150px;
+}
+.txt-size{
+  font-size: 13px;
 }
