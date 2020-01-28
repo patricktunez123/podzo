@@ -59,7 +59,7 @@ nav.nav-bottom-color{
   width: 150px;
 }
 .near-by{
-  background-image: url(/images/background.png);
+  background-image: url(../images/background.png);
   background-position: 0vmin;
   background-repeat: no-repeat;
   background-size: cover;
