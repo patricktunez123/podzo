@@ -12,6 +12,9 @@
   width: 200px;
   height: 200px;
 }
+.phone-m{
+  margin-top: -200px;
+}
 .card {
   padding: 10px;
 }
