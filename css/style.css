@@ -1,0 +1,71 @@
+.our-restos-section {
+  background-color: #f5fafc;
+}
+.restaurents-card{
+  background-color: #ffffff;
+}
+.restaurents-card-img {
+  width: 100px;
+  height: 100px;
+}
+.phone-img{
+  width: 200px;
+  height: 200px;
+}
+.card {
+  padding: 10px;
+}
+.how-it-works-section{
+  background-color: #ffffff;
+}
+.get-app-section{
+  background-color: #ff6000;
+  color: #ffffff;
+}
+.above-footer{
+  background-color: #3b3b3b;
+  color: #ffffff;
+}
+.below-footer{
+  background-color: #151515;
+  color: #ffffff;
+}
+nav.nav-bottom-color{
+  border-bottom: 2px solid #f5fafc;
+}
+.resto_bg{
+  background-image: url(/images/resto_bg.png);
+  background-size: cover;
+  color: #ffffff;
+}
+.restaurent-info-container{
+  background-color: #f5fafc;
+}
+.orange-color{
+  color: #ff6000;
+}
+.orange-color-btn{
+  background-color: #ff6000;
+  color: #ffffff;
+}
+.get-app-btn{
+  background-color: #ffffff;
+  color: #ff6000;
+}
+.btn-width{
+  width: 150px;
+}
+.near-by{
+  background-image: url(/images/background.png);
+  background-position: 0vmin;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 400px;
+}
+.res{
+  background-size: cover;
+  height: 200px;
+}
+.card{
+  margin-top: 20px;
+}
