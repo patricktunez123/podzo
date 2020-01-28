@@ -45,7 +45,7 @@ nav.nav-bottom-color{
   color: #ff6000;
 }
 .bold-txt{
-  font-weight: bold;
+  font-weight: 500;
 }
 .orange-color-btn{
   background-color: #ff6000;
@@ -67,11 +67,29 @@ nav.nav-bottom-color{
 }
 .res{
   background-size: cover;
-  height: 200px;
+  height: 300px;
 }
 .card{
   margin-top: 20px;
 }
 .p-right{
   padding-right: 20px;
+}
+.col-border{
+  padding: 30px;
+}
+.p-lunch{
+  padding-top: 20px;
+}
+a:hover{
+  text-decoration: none;
+}
+.nav-link:active{
+  color: #ff6000;
+}
+.circle{
+  background-color: #151515;
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
 }
