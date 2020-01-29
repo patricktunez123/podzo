@@ -12,6 +12,9 @@
   width: 200px;
   height: 200px;
 }
+.phone-m{
+  margin-top: -200px;
+}
 .card {
   padding: 10px;
 }
@@ -92,4 +95,12 @@ a:hover{
   width: 35px;
   height: 35px;
   border-radius: 50%;
+}
+.contact-pragraph{
+  margin-top: 40px;
+}
+.f-shadow{
+  box-shadow: 0 0 0 5px hsl(0, 0%, 95%);
+  border: none;
+  border-radius: 1px;
 }
